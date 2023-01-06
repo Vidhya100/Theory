@@ -1,0 +1,32 @@
+HTTP protocol and HTTP commands ->
+	The HTTP (Hypertext Transfer Protocol) protocol is a standard for sending and 
+receiving data over the internet. It is the foundation of the World Wide Web, and is used to 
+transmit data between clients and servers, such as web browsers and web servers.
+
+HTTP uses a client-server model, where a client sends a request to a server, and the server 
+sends a response back to the client. The request and response are both in the form of HTTP 
+messages, which consist of a start line, headers, and a message body.
+
+Here are some common HTTP commands:
+
+1.GET: This command is used to retrieve a resource from the server. For example, a 
+web browser might send a GET request to a server to retrieve a webpage.
+
+2.HEAD: This command is similar to GET, but it only retrieves the headers of a 
+resource, rather than the entire resource.
+
+3.POST: This command is used to submit data to the server, such as form data or a file 
+upload.
+4.PUT: This command is used to upload a resource to the server.
+
+5.DELETE: This command is used to delete a resource from the server.
+
+6.CONNECT: This command is used to establish a tunnel to the server for the purpose 
+of establishing a secure connection.
+
+7.OPTIONS: This command is used to request information about the options that are 
+available for a particular resource.
+
+8.TRACE: This command is used to perform a message loopback test to the server.
+
+9.PATCH: This command is used to apply a partial modification to a resource.

@@ -1,0 +1,21 @@
+Q. Tracing, Debugging, Error Handling 
+->
+	Tracing, debugging, and error handling are important tasks that are involved in 
+developing and maintaining software.
+
+Tracing is the process of recording information about the execution of an application, such 
+as the values of variables or the flow of control. Tracing can be used to understand how an 
+application is working, or to diagnose problems that occur during execution.
+
+Debugging is the process of finding and fixing errors in an application. Debuggers are tools 
+that allow you to execute an application one line of code at a time, inspect the values of 
+variables, and set breakpoints to pause the execution of the application at a particular point.
+
+Error handling is the process of anticipating and responding to errors that can occur during 
+the execution of an application. This can involve trapping errors, logging error information, 
+and recovering from errors in a graceful manner.
+
+Overall, tracing, debugging, and error handling are essential skills for developing and 
+maintaining software. They help you to understand how your application is working, find 
+and fix problems, and ensure that your application runs smoothly.
+

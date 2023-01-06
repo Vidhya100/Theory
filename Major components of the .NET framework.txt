@@ -1,0 +1,35 @@
+Q. Major components of the .NET framework
+->
+		The .NET framework consists of several components that work together to 
+create a development platform for building, deploying, and running applications.
+Here are some of the major components:
+1. Common Language Runtime (CLR): This is the runtime environment that manages 
+the execution of .NET code. It provides services such as memory management, 
+thread management, and security.
+
+2. .NET Framework Class Library: This is a library of classes, interfaces, and value types 
+that are provided as part of the .NET framework. It includes a wide range of 
+functionality, such as file input/output, database connectivity, and XML parsing. 
+
+3. Common Language Specification (CLS): This is a set of guidelines that are followed by 
+all .NET languages to ensure that they can interoperate with each other. It defines a 
+set of rules for language designers to follow, so that code written in one .NET 
+language can be used in another .NET language.
+
+4. Windows Forms: This is a user interface (UI) framework for building graphical 
+applications. It provides a set of UI controls and layout containers that you can use to 
+build a UI for your application.
+
+5. ASP.NET: This is a web application framework that allows you to build dynamic, 
+interactive websites and web applications. It includes a server-side scripting 
+language (ASP.NET), a rich set of UI controls, and support for connecting to a wide 
+range of data sources.
+
+6. DO.NET: This is a data access technology that enables you to connect to, query, and 
+update data from a wide range of sources, including databases, data files, and web 
+services.
+
+7. Windows Communication Foundation (WCF): This is a framework for building 
+distributed, service-oriented applications. It allows you to build applications that 
+communicate with each other over a network, using a variety of different 
+communication protocols.

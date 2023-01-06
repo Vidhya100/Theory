@@ -1,0 +1,22 @@
+Q. How does the .NET framework work?
+
+	The .NET framework is a platform for building, deploying, and running applications. It 
+provides a runtime environment called the Common Language Runtime (CLR), which 
+manages the execution of code and provides services such as memory management, thread 
+management, and security.
+
+When you build a .NET application, you write code in a language such as C# or VB.NET. This 
+code is compiled into an intermediate language (IL) by a language compiler. The IL code is 
+then compiled into machine code by the CLR at runtime. This process is known as just-in-
+time (JIT) compilation.
+
+The .NET framework also includes a library of classes, called the .NET Framework Class 
+Library, which provides a wide range of functionality that you can use in your applications. 
+This library is organized into namespaces, which group related classes together.
+
+In addition to the CLR and the .NET Framework Class Library, the .NET framework includes 
+other components such as Windows Forms for building graphical user interfaces (GUIs) and 
+ASP.NET for building web applications.
+
+Overall, the .NET framework provides a comprehensive development platform for building, 
+deploying, and running a wide range of applications on the Windows operating system.

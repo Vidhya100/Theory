@@ -1,0 +1,20 @@
+1.Difference between .NET Standard, .NET Core and ASP.NET.
+
+.NET Standard is a set of APIs that are common to multiple .NET implementations, 
+such as .NET Framework, .NET Core, and Xamarin. It allows developers to write code 
+that can be used on multiple platforms, without having to worry about the 
+underlying implementation details.
+
+.NET Core is a cross-platform, open-source implementation of .NET that can be used 
+to build applications for Windows, Linux, and macOS. It includes a runtime, a set of 
+libraries, and a set of tools for developing and running applications.
+
+ASP.NET is a framework for building web applications and APIs. It can be used with 
+either .NET Framework or .NET Core. ASP.NET supports multiple programming 
+languages and can be used to build web applications and APIs that run on Windows, 
+Linux, and macOS.
+
+In summary, .NET Standard is a set of APIs that are shared by multiple .NET 
+implementations, .NET Core is an implementation of .NET that can be used to build 
+cross-platform applications, and ASP.NET is a framework for building web 
+applications and APIs.

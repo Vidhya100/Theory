@@ -1,0 +1,21 @@
+Q. .NET Controls 
+->
+	.NET controls are UI elements that you can use to build user interfaces in .NET 
+applications. There are several types of controls available in the .NET framework, 
+including:
+*Web controls: These are UI elements that are used to build web applications using 
+ASP.NET. Examples include buttons, text boxes, and labels.
+
+*Windows Forms controls: These are UI elements that are used to build graphical 
+Windows applications. Examples include buttons, text boxes, and labels.
+
+*WPF controls: These are UI elements that are used to build graphical applications 
+using the Windows Presentation Foundation (WPF). Examples include buttons, text 
+boxes, and labels.
+
+*Custom controls: These are controls that you can create yourself by subclassing an 
+existing control or by creating a new control from scratch.
+
+Overall, .NET controls are an essential part of building user interfaces in .NET applications. 
+They provide a wide range of UI elements that you can use to build interactive and user-
+friendly interfaces for your applications.

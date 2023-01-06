@@ -1,0 +1,31 @@
+Q. .NET Application and Page Life Cycle 
+->
+	In the .NET Framework, an application and its pages go through a series of steps, 
+known as the application and page life cycle, as they are requested and served. These steps 
+are common to all ASP.NET applications and provide a way to hook into the life cycle of an 
+application and its pages to perform custom tasks.
+
+*The application life cycle consists of the following steps:
+1.Application start
+2.Application end
+
+*The page life cycle consists of the following steps:
+1.Page request
+2.Start
+3.Initialization
+4.Load
+5.Validation
+6.Rendering
+7.Unload
+
+Each of these steps corresponds to a method in the life cycle of an application or page. For 
+example, the Application_Start method is called when the application starts, and the 
+Page_Load method is called when a page is requested.
+
+You can override these methods in your application or page to perform custom tasks. For 
+example, you might override the Page_Load method to load data from a database and bind 
+it to a control on the page.
+
+The life cycle of an application and its pages is important to understand because it 
+determines when certain tasks are performed, and it provides a way for you to hook into 
+the life cycle to perform custom tasks.

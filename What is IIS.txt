@@ -1,0 +1,15 @@
+Q. What is IIS? 
+	IIS (Internet Information Services) is a web server software package developed by 
+Microsoft. It is the main web server software used on the Windows operating system, and it 
+is designed to host websites and web applications.
+
+IIS supports a wide range of protocols, such as HTTP, HTTPS, FTP, FTPS, and SMTP. It 
+provides features such as secure sockets layer (SSL) support, server-side scripting support, 
+and support for a wide range of media types.
+
+IIS also includes a number of tools and features for managing and configuring web servers 
+and websites, such as the Internet Information Services Manager, which provides a 
+graphical user interface for managing IIS.
+
+Overall, IIS is a powerful and flexible web server that is widely used for hosting websites and 
+web applications on the Windows platform.
